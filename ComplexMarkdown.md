@@ -31,11 +31,13 @@ Using footnotes allow the reader to do research without leaving and looking it u
 [^1] : This is the footnote
 
 
+6. Tables
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+Using tables helps you be organized, this can also help people read things better. To make a table this is how to type it out:
+|  Syntax | Description  |
+|  ----------- | ----------- |
+|  Header | Title  |
+|  Paragraph |  Text |
 
 
 
