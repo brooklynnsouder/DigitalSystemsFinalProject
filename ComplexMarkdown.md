@@ -14,9 +14,14 @@ Images are fairly easy to put in markdown. All you have to do is type ! [ your t
 Adding links or articles to your markdown page is very helpful for viewers or readers to know what you are talking about. To add links all you have to type is [ title ] ( https://example.com ), again also without the spaces, but here is an actual example of hyperlinks [Example Hyperlink](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
-3. Highlighting
+3. Strikethrough
 
-Highlighting is also a fun way to draw the viewers eyes to a certain part of the page. To highlight you have to type == 2 times on the first and last words for it to highlight. Here is an example ~~these words are so important I gotta highlight~~
+Strikethrough is also a fun way to draw the viewers eyes to a certain part of the page. To strikethrough you have to type ~~ 2 times on the first and last words for it to strikethrough. Here is an example ~~these words are so important I gotta strikethrough~~
+
+
+4. Emoji
+
+Using emojis are helpful for the viewer to understand how you are saying something. To use emojis you'll have to know what each emoji is called or copy and pasting them, this article is very helpful [Emojis](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji). To use emojis you have to add : colons before and after the words. Here is an example You are so funny! :joy:
 
 
 
