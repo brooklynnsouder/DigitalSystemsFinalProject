@@ -34,10 +34,16 @@ Using footnotes allow the reader to do research without leaving and looking it u
 6. Tables
 
 Using tables helps you be organized, this can also help people read things better. To make a table this is how to type it out:
-|  Syntax | Description  |
-|  ----------- | ----------- |
-|  Header | Title  |
-|  Paragraph |  Text |
+| Syntax | Description |       
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+An example would be:
+| Name | Brooklynn Souder |
+| ----------- | ----------- |
+| Age | 20 |
+| Major | Infomation Technology |
 
 
 
