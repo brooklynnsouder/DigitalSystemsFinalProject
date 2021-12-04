@@ -21,7 +21,7 @@ Strikethrough is also a fun way to draw the viewers eyes to a certain part of th
 
 4. Emoji
 
-Using emojis are helpful for the viewer to understand how you are saying something. To use emojis you'll have to know what each emoji is called or copy and pasting them, this article is very helpful [Emojis](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji). To use emojis you have to add : colons before and after the words. Here is an example You are so funny! :joy:
+Using emojis are helpful for the viewer to understand how you are saying something. To use emojis you'll have to know what each emoji is called or copy and pasting them, this article is very helpful [Emojis](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji). To use emojis you have to add : colons before and after the words. Here is an example I hope you are laughing so hard rightnow because I am using this emoji :joy: or I :heart: you!
 
 
 
