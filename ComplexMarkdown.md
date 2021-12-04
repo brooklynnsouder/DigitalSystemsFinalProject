@@ -28,7 +28,7 @@ Using emojis are helpful for the viewer to understand how you are saying somethi
 
 Using footnotes allow the reader to do research without leaving and looking it up. To make a footnote you have add [^1] at the end of the sentence. Here is an example: This is a sentence with a footnote [^1]
 
-[^1] : This is the footnote
+[^1]: This is the footnote
 
 
 6. Tables
