@@ -9,5 +9,11 @@ The purpose of this final project is to make a markdown that is hosted in Github
 
 The target audience for this tutorial is anyone who wants to learn more about markdown, the basics of coding, and/or learning how to use Github.
 
+The order for viewing the files are:
+-README
+-TheBasics
+-ComplexMarkdown
+-Goodbye
+
 
 
