@@ -40,5 +40,11 @@ There is many different syntax for what you are looking for such as size of text
 **Like I could copy the entire paragraph up there and show you that I can quite literally bold anything my heart desires but I'll be nice and just do this sentence :)**
 
 
+## For some more helpful information regrading basic or advanced markdown this artice is very helpful with cheat codes so you don't forget!
+
+
+[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+[Ultimate Cheat Sheet](https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0)
+
 
 
