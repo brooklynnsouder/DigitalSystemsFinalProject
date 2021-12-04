@@ -24,6 +24,11 @@ Strikethrough is also a fun way to draw the viewers eyes to a certain part of th
 Using emojis are helpful for the viewer to understand how you are saying something. To use emojis you'll have to know what each emoji is called or copy and pasting them, this article is very helpful [Emojis](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji). To use emojis you have to add : colons before and after the words. Here is an example I hope you are laughing so hard rightnow because I am using this emoji :joy: or I :heart: you!
 
 
+5. Footnotes
+
+Using footnotes allow the reader to do research without leaving and looking it up. To make a footnote you have add [^1] at the end of the sentence.
+
+
 
 
 
