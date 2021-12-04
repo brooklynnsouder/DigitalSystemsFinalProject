@@ -8,6 +8,8 @@ When you are using markdown there are certain sticky keys that help you get your
 
 There is many different syntax for what you are looking for such as size of text, *italicized*, and **bolded text**!
 
+
+
 ### Here are some examples of syntax to use to get what you want:
 
 1. Headings
@@ -22,9 +24,16 @@ There is many different syntax for what you are looking for such as size of text
 ###### Heading 6
 
 
+
+
 2. Italic
 
--Italizing text is my favorite markrdown basic syntax, and it also is probably the easiest. To italiczed text all you have to do is put a * or an astrick in front and behind the word or sentence such as this *Hi there!* but you can't see the astricks so this is what is looks like * Hi there! * but without the spaces.
+-Italizing text is my favorite markrdown basic syntax, and it also is probably the easiest. To italiczed text all you have to do is put a * or an astrick in front and behind the word or sentence such as this *Hi there!* but you can't see the astricks so this is what is looks like * Hi there! * but without the spaces. You can out anything your heart desires in italic just as long as you add astricks.
+
+*Like I could copy the entire paragraph up there and show you that I can quite literally italize anything my heart desires but I'll be nice and just do this sentence :)*
+
+
+3. 
 
 
 
