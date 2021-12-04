@@ -10,11 +10,13 @@ Images are fairly easy to put in markdown. All you have to do is type ! [ your t
 
 
 2. Hyperlinks
+
 Adding links or articles to your markdown page is very helpful for viewers or readers to know what you are talking about. To add links all you have to type is [ title ] ( https://example.com ), again also without the spaces, but here is an actual example of hyperlinks [Example Hyperlink](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 3. Highlighting
-Highlighting is also a fun way to draw the viewers eyes to a certain part of the page. To highlight you have to type == 2 times on the first and last words for it to highlight. Here is an example ==these words are so important I gotta highlight==
+
+Highlighting is also a fun way to draw the viewers eyes to a certain part of the page. To highlight you have to type == 2 times on the first and last words for it to highlight. Here is an example ~~these words are so important I gotta highlight~~
 
 
 
