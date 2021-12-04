@@ -33,7 +33,11 @@ There is many different syntax for what you are looking for such as size of text
 *Like I could copy the entire paragraph up there and show you that I can quite literally italize anything my heart desires but I'll be nice and just do this sentence :)*
 
 
-3. 
+3. Bold
+
+-Bolding text could also be very useful when using markdown to bold important infomation such as dates, times, peoples names, or even the entire thing. To bold soemthing you will add ** 2 astricks in front and behind the word or sentence such as this **Hi there!** but you can't see the astricks once again so this is what it looks like ** Hi there! ** but without the spaces. 
+
+**Like I could copy the entire paragraph up there and show you that I can quite literally bold anything my heart desires but I'll be nice and just do this sentence :)**
 
 
 
