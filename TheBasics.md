@@ -4,6 +4,6 @@
 
 # Markdown Syntax:
 
-#### When you are using markdown there are certain sticky keys that help you get your point across. Such as *this is italicized right?* and #this is bolded right?# 
+#### When you are using markdown there are certain sticky keys that help you get your point across. Such as *this is italicized right?* and **this is bolded right?**
 
 
