@@ -6,11 +6,11 @@ Compared to the basics I just taught you there is more complex thing you can do 
 
 1. Images
 
-Images are fairly easy to put in markdown. All you have to do is type "![your text](image.jpg)" due to this being an example nothing will show but I will be including some images from my Spotify Wrapped this year! :) Images will be at the bottom of this page
+Images are fairly easy to put in markdown. All you have to do is type ! [ your text ] ( image.jpg )" due to this being an example nothing will show but I will be including some images from my Spotify Wrapped this year! :) Images will be at the bottom of this page
 
 
 2. Hyperlinks
-Adding links or articles to your markdown page is very helpful for viewers or readers to know what you are talking about. To add links all you have to type is 
+Adding links or articles to your markdown page is very helpful for viewers or readers to know what you are talking about. To add links all you have to type is [title](https://example.com)
 
 
 
