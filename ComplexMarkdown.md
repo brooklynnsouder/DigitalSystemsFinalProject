@@ -32,6 +32,13 @@ Using footnotes allow the reader to do research without leaving and looking it u
 
 
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
+
 
 
 
