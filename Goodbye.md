@@ -11,7 +11,7 @@
 ###### If you found this on Github and enjoyed this tutorial star this repository!
 
 ~~Have a great~~ **Day** & I hope you have a good christmas break!! [^1]
-Heres some random emojis for your day :star_struck: :smiling_face _with_three_hearts: :partying_face: :face_blowing_a_kiss: :beating_heart: :two_hearts: :sparkles:
+Heres some random emojis for your day :star_struck: :smiling_face_with_three_hearts: :partying_face: :heartbeat: :two_hearts: :sparkles:
 
 
 [^1]: Finally I can't wait to have a break!
